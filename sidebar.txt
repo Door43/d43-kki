@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[kki:home|Door43 (kki)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-kki|d43-kki repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-kki/archive/master.zip|d43-kki.zip]]
+
+**Recent Changes**
+{{changes>ns = kki}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/kki|Ethnologue data]]
+
